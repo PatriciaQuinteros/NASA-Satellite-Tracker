@@ -5,14 +5,16 @@ project(SatelliteTrackingTool)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# Include directory for header files
-include_directories(${CMAKE_SOURCE_DIR}/include)
+
 
 # Add source files
 file(GLOB SOURCES "src/*.cpp")
 
 # Add executable based on the specified source files
-add_executable(SatelliteTrackingTool ${SOURCES})
+add_executable(SatelliteTrackingTool src/main.cpp src/TLEParser.cpp)
+
+target_include_directories(SatelliteTrackingTool PRIVATE ${CMAKE_SOURCE_DIR}/include)
+
 
 # Find CURL if you're using it
 find_package(CURL REQUIRED)

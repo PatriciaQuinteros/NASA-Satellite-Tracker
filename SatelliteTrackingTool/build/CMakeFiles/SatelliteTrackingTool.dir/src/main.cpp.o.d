@@ -1,5 +1,5 @@
 CMakeFiles/SatelliteTrackingTool.dir/src/main.cpp.o: \
-  /Users/patriciaquinteros/Desktop/SatelliteTrackingTool/src/main.cpp \
+  /Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/src/main.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config \
@@ -822,8 +822,7 @@ CMakeFiles/SatelliteTrackingTool.dir/src/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__locale_dir/locale_base_api/bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/cstdarg \
-  /Users/patriciaquinteros/Desktop/SatelliteTrackingTool/include/TLEParser.h \
-  /Users/patriciaquinteros/Desktop/SatelliteTrackingTool/include/json.hpp \
+  /Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/include/json.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/functional \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__functional/binary_negate.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__functional/bind.h \
@@ -895,4 +894,5 @@ CMakeFiles/SatelliteTrackingTool.dir/src/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__numeric/pstl_reduce.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__numeric/transform_exclusive_scan.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__numeric/transform_inclusive_scan.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/iomanip
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/iomanip \
+  /Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/include/TLEParser.h

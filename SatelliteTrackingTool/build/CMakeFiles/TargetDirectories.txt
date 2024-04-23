@@ -1,3 +1,3 @@
-/Users/patriciaquinteros/Desktop/SatelliteTrackingTool/build/CMakeFiles/SatelliteTrackingTool.dir
-/Users/patriciaquinteros/Desktop/SatelliteTrackingTool/build/CMakeFiles/edit_cache.dir
-/Users/patriciaquinteros/Desktop/SatelliteTrackingTool/build/CMakeFiles/rebuild_cache.dir
+/Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/build/CMakeFiles/SatelliteTrackingTool.dir
+/Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/build/CMakeFiles/edit_cache.dir
+/Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/build/CMakeFiles/rebuild_cache.dir

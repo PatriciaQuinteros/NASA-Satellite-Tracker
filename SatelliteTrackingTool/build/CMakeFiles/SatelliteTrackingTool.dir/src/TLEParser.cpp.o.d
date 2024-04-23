@@ -1,5 +1,5 @@
 CMakeFiles/SatelliteTrackingTool.dir/src/TLEParser.cpp.o: \
-  /Users/patriciaquinteros/Desktop/SatelliteTrackingTool/src/TLEParser.cpp \
+  /Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/src/TLEParser.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/string \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/max.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/comp.h \
@@ -756,7 +756,7 @@ CMakeFiles/SatelliteTrackingTool.dir/src/TLEParser.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__functional/weak_result_type.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__memory/allocator_destructor.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__memory/uses_allocator_construction.h \
-  /Users/patriciaquinteros/Desktop/SatelliteTrackingTool/include/TLEParser.h \
+  /Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/include/TLEParser.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/curl/curl.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/curl/curlver.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/curl/system.h \
