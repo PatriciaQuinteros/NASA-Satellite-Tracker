@@ -8,8 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/src/TLEParser.cpp" "CMakeFiles/SatelliteTrackingTool.dir/src/TLEParser.cpp.o" "gcc" "CMakeFiles/SatelliteTrackingTool.dir/src/TLEParser.cpp.o.d"
-  "/Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/src/main.cpp" "CMakeFiles/SatelliteTrackingTool.dir/src/main.cpp.o" "gcc" "CMakeFiles/SatelliteTrackingTool.dir/src/main.cpp.o.d"
+  "/Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/src/main.cpp" "CMakeFiles/main.dir/src/main.cpp.o" "gcc" "CMakeFiles/main.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

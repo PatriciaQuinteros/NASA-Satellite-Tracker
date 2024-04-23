@@ -54,10 +54,10 @@ RM = /usr/local/Cellar/cmake/3.29.2/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/patriciaquinteros/Desktop/SatelliteTrackingTool
+CMAKE_SOURCE_DIR = /Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/patriciaquinteros/Desktop/SatelliteTrackingTool/build
+CMAKE_BINARY_DIR = /Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/SatelliteTrackingTool.dir/clean
 CMakeFiles/SatelliteTrackingTool.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SatelliteTrackingTool.dir/build.make CMakeFiles/SatelliteTrackingTool.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SatelliteTrackingTool.dir/build.make CMakeFiles/SatelliteTrackingTool.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/patriciaquinteros/Desktop/SatelliteTrackingTool/build/CMakeFiles --progress-num=1,2,3 "Built target SatelliteTrackingTool"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/build/CMakeFiles --progress-num=1,2,3 "Built target SatelliteTrackingTool"
 .PHONY : CMakeFiles/SatelliteTrackingTool.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SatelliteTrackingTool.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/patriciaquinteros/Desktop/SatelliteTrackingTool/build/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/build/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/SatelliteTrackingTool.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/patriciaquinteros/Desktop/SatelliteTrackingTool/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/build/CMakeFiles 0
 .PHONY : CMakeFiles/SatelliteTrackingTool.dir/rule
 
 # Convenience name for target.

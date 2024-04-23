@@ -1,14 +1,14 @@
 [
 {
-  "directory": "/Users/patriciaquinteros/Desktop/SatelliteTrackingTool/build",
-  "command": "/usr/bin/clang++  -I/Users/patriciaquinteros/Desktop/SatelliteTrackingTool/include -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/SatelliteTrackingTool.dir/src/TLEParser.cpp.o -c /Users/patriciaquinteros/Desktop/SatelliteTrackingTool/src/TLEParser.cpp",
-  "file": "/Users/patriciaquinteros/Desktop/SatelliteTrackingTool/src/TLEParser.cpp",
-  "output": "CMakeFiles/SatelliteTrackingTool.dir/src/TLEParser.cpp.o"
+  "directory": "/Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/build",
+  "command": "/usr/bin/clang++  -I/Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/include -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/SatelliteTrackingTool.dir/src/main.cpp.o -c /Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/src/main.cpp",
+  "file": "/Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/src/main.cpp",
+  "output": "CMakeFiles/SatelliteTrackingTool.dir/src/main.cpp.o"
 },
 {
-  "directory": "/Users/patriciaquinteros/Desktop/SatelliteTrackingTool/build",
-  "command": "/usr/bin/clang++  -I/Users/patriciaquinteros/Desktop/SatelliteTrackingTool/include -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/SatelliteTrackingTool.dir/src/main.cpp.o -c /Users/patriciaquinteros/Desktop/SatelliteTrackingTool/src/main.cpp",
-  "file": "/Users/patriciaquinteros/Desktop/SatelliteTrackingTool/src/main.cpp",
-  "output": "CMakeFiles/SatelliteTrackingTool.dir/src/main.cpp.o"
+  "directory": "/Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/build",
+  "command": "/usr/bin/clang++  -I/Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/include -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/SatelliteTrackingTool.dir/src/TLEParser.cpp.o -c /Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/src/TLEParser.cpp",
+  "file": "/Users/patriciaquinteros/Documents/GitHub/NASA-Satellite-Tracker/SatelliteTrackingTool/src/TLEParser.cpp",
+  "output": "CMakeFiles/SatelliteTrackingTool.dir/src/TLEParser.cpp.o"
 }
 ]
