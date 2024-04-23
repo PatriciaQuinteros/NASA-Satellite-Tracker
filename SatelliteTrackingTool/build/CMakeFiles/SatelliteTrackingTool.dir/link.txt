@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/SatelliteTrackingTool.dir/src/TLEParser.cpp.o CMakeFiles/SatelliteTrackingTool.dir/src/main.cpp.o -o SatelliteTrackingTool  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/lib/libcurl.tbd

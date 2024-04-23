@@ -1,0 +1,3 @@
+/Users/patriciaquinteros/Desktop/SatelliteTrackingTool/build/CMakeFiles/SatelliteTrackingTool.dir
+/Users/patriciaquinteros/Desktop/SatelliteTrackingTool/build/CMakeFiles/edit_cache.dir
+/Users/patriciaquinteros/Desktop/SatelliteTrackingTool/build/CMakeFiles/rebuild_cache.dir
